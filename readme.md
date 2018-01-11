@@ -13,6 +13,6 @@
 
 * 综合以上所有数据做一个推荐榜，推荐每个细分领域最值得读的文章。
 
-558个专栏的总体情况，详细介绍可以参看这篇[知乎文章]()
+558个专栏的总体情况，详细介绍可以参看这篇[知乎文章](https://zhuanlan.zhihu.com/p/32822550)
 
-[所有专栏按关注人数排序列表]()
+[所有专栏按关注人数排序列表](https://github.com/wangle1218/zhihu_zhuanlan_recommend/blob/master/sort_by_followers.md)
